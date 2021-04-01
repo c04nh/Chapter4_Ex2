@@ -29,6 +29,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:rotation="270"
         android:text="@string/btn5"/>
 
 </LinearLayout>
